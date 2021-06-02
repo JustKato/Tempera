@@ -1,0 +1,1 @@
+g++ -o3 main.cpp -o tempera

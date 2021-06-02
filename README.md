@@ -20,3 +20,10 @@ echo 64 | ./tempera # Returns 17.7778
 echo 16 | ./tempera 1 # returns 60.8
 
 ```
+
+# License
+[MIT License](license)
+
+#### Disclaimer
+I literally made this at `12:00AM`, it's dead-simple and nothing special, just write it yourself if you're goign to implement it, I just wanted to have a binary download somewhere
+
